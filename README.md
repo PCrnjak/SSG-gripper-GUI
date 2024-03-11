@@ -6,7 +6,7 @@
 
 https://source-robotics.com
 
-This Repo contains GUI for [Spectral Micro BLDC controller](https://source-robotics.com/products/spectral-micro-bldc-controller)
+This Repo contains GUI for [SSG-48 adaptive electric gripper](https://source-robotics.com/products/compliant-gripper)
 
 # How to install 
 
@@ -26,7 +26,7 @@ Linux version <br />
 
 # Documentation:
 
-How to use Spectral motor GUI can be found in [DOCS](https://source-robotics.github.io/PAROL-docs/) <br />
+Guide on how to use SSG gripper GUI can be found in [DOCS](https://source-robotics.github.io/PAROL-docs/) <br />
 The video guide can be found [here!]()
 
 # More about Spectral motors
@@ -39,11 +39,6 @@ The video guide can be found [here!]()
 - [DOCS](https://source-robotics.github.io/PAROL-docs/)
 - [Twitter](https://twitter.com/SourceRobotics)
 
-
-# TODO
-
-- Connect over CAN bus
-- Trajectories
 
 # 📢📢Contributing to the project 📢📢
 Some features are still missing on the software and hardware side of the PAROL6.
