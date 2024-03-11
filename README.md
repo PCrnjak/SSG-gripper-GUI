@@ -24,7 +24,7 @@ pip install -r requirements.txt
 Windows version <br />
 Linux version <br /> 
 
-# Documentation:
+# Documentation / How to use:
 
 Guide on how to use SSG gripper GUI can be found in [DOCS](https://source-robotics.github.io/PAROL-docs/) <br />
 The video guide can be found [here!]()
@@ -41,7 +41,7 @@ The video guide can be found [here!]()
 
 
 # 📢📢Contributing to the project 📢📢
-Some features are still missing on the software and hardware side of the PAROL6.
+Some features are still missing on the software and hardware side of the SSG gripper and GUI.
 If you want to contribute you can open issues or pull requests in the GitHub repo to implement a feature! (Use DEV branch)
 You can request or say you are working on a feature in the "general" channel of our [Discord]( https://discord.gg/prjUvjmGpZ) or [blog](https://discourse.source-robotics.com/)
 
