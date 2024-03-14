@@ -1,6 +1,6 @@
 # SSG-gripper-GUI
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) ![Issues](https://img.shields.io/github/issues/PCrnjak/SSG-gripper-GUI) ![release](https://img.shields.io/github/v/release/PCrnjak/SSG-gripper-GUI)
 
 <img src="Images/Gripper_GIF.gif" alt="drawing" width="700"/>
 
