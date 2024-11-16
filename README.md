@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ```
 
 ## **Using .exe**  <br />
-[x64 Windows version](https://github.com/PCrnjak/Spectral-motor-GUI/releases) <br />
+[x64 Windows version](https://github.com/PCrnjak/SSG-gripper-GUI/releases) <br />
 Linux version  TODO <br /> 
 
 # Documentation / How to use:
