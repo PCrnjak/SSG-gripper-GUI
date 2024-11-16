@@ -12,17 +12,17 @@ This Repo contains GUI for [SSG-48 adaptive electric gripper](https://source-rob
 
 Tested on python 3.10.12 <br />
 
-**Manual**<br />
-How to install on the Linux: [Link](https://github.com/PCrnjak/PAROL-commander-software/blob/main/Linux_install.md)<br />
-How to install on Windows: [Link](https://github.com/PCrnjak/PAROL-commander-software/blob/main/Windows_install.md)
-<br /> **Also works on MAC, just follow the Linux install guide.
-
 **Using requirements.txt**<br />
-pip install -r requirements.txt 
+>[!NOTE] 
+pip install is still TODO
 
-**Using .exe**
-Windows version <br />
-Linux version <br /> 
+```sh
+pip install -r requirements.txt 
+```
+
+## **Using .exe**  <br />
+[x64 Windows version](https://github.com/PCrnjak/Spectral-motor-GUI/releases) <br />
+Linux version  TODO <br /> 
 
 # Documentation / How to use:
 
